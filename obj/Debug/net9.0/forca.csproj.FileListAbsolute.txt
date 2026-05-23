@@ -1,0 +1,14 @@
+C:\Users\vitor\C#_Projects\Meus\Forca\forca\obj\Debug\net9.0\forca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\C#_Projects\Meus\Forca\forca\obj\Debug\net9.0\forca.AssemblyInfoInputs.cache
+C:\Users\vitor\C#_Projects\Meus\Forca\forca\obj\Debug\net9.0\forca.AssemblyInfo.cs
+C:\Users\vitor\C#_Projects\Meus\Forca\forca\obj\Debug\net9.0\forca.csproj.CoreCompileInputs.cache
+C:\Users\vitor\C#_Projects\Meus\Forca\forca\bin\Debug\net9.0\forca.exe
+C:\Users\vitor\C#_Projects\Meus\Forca\forca\bin\Debug\net9.0\forca.deps.json
+C:\Users\vitor\C#_Projects\Meus\Forca\forca\bin\Debug\net9.0\forca.runtimeconfig.json
+C:\Users\vitor\C#_Projects\Meus\Forca\forca\bin\Debug\net9.0\forca.dll
+C:\Users\vitor\C#_Projects\Meus\Forca\forca\bin\Debug\net9.0\forca.pdb
+C:\Users\vitor\C#_Projects\Meus\Forca\forca\obj\Debug\net9.0\forca.dll
+C:\Users\vitor\C#_Projects\Meus\Forca\forca\obj\Debug\net9.0\refint\forca.dll
+C:\Users\vitor\C#_Projects\Meus\Forca\forca\obj\Debug\net9.0\forca.pdb
+C:\Users\vitor\C#_Projects\Meus\Forca\forca\obj\Debug\net9.0\forca.genruntimeconfig.cache
+C:\Users\vitor\C#_Projects\Meus\Forca\forca\obj\Debug\net9.0\ref\forca.dll
